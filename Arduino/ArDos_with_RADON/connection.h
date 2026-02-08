@@ -5,8 +5,8 @@
 
 //Цифровые кнопки
 #define SEL_PIN   3  //пин кнопки выбора(только пин 3)(pin D)
-#define DOWN_PIN  7  //пин кнопки вниз(0..19)(pin D)
-#define UP_PIN    4  //пин кнопки вверх(0..19)(pin D)
+#define DOWN_PIN  4  //пин кнопки вниз(0..19)(pin D)
+#define UP_PIN    7  //пин кнопки вверх(0..19)(pin D)
 
 //Дисплей 5110(3310)
 #define MOSI_PIN 14 //пин MOSI дисплея(0..19)(pin D)
